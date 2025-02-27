@@ -127,8 +127,4 @@ redis-server
 celery -A myproject worker --loglevel=info
 ```
 
----
-
-## 🔥 Автор
-Разработано **ТВОЁ ИМЯ** 🚀
 
